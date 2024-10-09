@@ -1,6 +1,8 @@
-public class Main {
+// Day : 01 Java Course : // add three number code
+
+public class Main
+{
     public static void main(String[] args)
-            // add three number code
     {
         System.out.println("the sum of these number is ");
         int num1 = 3;
