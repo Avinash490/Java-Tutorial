@@ -1,4 +1,5 @@
-// Day : 01 Java Course : // add three number code
+// Day : 01 Of Java Tutorial.
+// Add three number code
 
 public class Main
 {
@@ -17,10 +18,5 @@ public class Main
 
 
 
-
-
-
-
-// add two number
 // AddTwoNumber--> pascal naming convention
 // addTwoNumber--> camel case naming convention
